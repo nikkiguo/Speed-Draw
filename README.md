@@ -1,4 +1,4 @@
-# Speed Draw -- Drawing Practice for Artists
+# Speed Draw - Drawing Practice for Artists
 A web app that utilises [Pexels API](https://www.pexels.com/api/documentation/) to generate images of a specific query for artists to use as reference.
 
 ## Home Page
