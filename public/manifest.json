@@ -1,0 +1,8 @@
+{
+  "short_name": "Speed Draw",
+  "name": "Practice Plein Air Drawing Online",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,15 @@
+.App {
+  background-image: linear-gradient(120deg, #94E27E 0%, #19D7BE 100%);
+  font-family: 'Josefin Sans', sans-serif;
+  color: 120DEG;
+  min-height: 100vh;  
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-other {
+  font-family: 'Josefin Sans', sans-serif;
+  color: 120DEG;
+  min-height: 100vh;  
+}

@@ -1,0 +1,45 @@
+
+.Landing {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: 120DEG;    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.header {
+  background-color: white;
+  opacity: 90%;
+  width: 75vw;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  line-height: 3vh;
+  padding: 5%;
+  font-size: 3vw;
+}
+
+.start {
+  border-radius: 5px;
+  border-width: 0;
+  padding: 0.8vw;
+  width: 10vw;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #19D7BE;
+  font-size: 2vw;
+  transition: 0.3s;
+  border-color: #313234;
+}
+
+.start:hover {
+  background-color: #94E27E;
+}
+
+
+.option {
+  font-size: 1.3vw;
+  align-items: center;
+  margin-bottom: 6vh;
+  width: 30vw;
+}

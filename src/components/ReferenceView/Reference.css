@@ -1,0 +1,81 @@
+
+.Landing {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: 120DEG;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+.header {
+  background-color: white;
+  width: 75vw;
+  height: auto;
+  font-size: 3vw;
+  position: relative;
+}
+
+.Ref {
+  width: 80%;
+  height: auto;
+}
+
+.Exit {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  color: #19D7BE;
+  transition: 0.3s;
+}
+
+.Exit:hover {
+  color: #94E27E;
+  cursor: pointer;
+}
+
+.Generate {
+  border-radius: 5px;
+  border-width: 0;
+  padding: 0.6vw;
+  width: 20vw;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #19D7BE;
+  font-size: 2vw;
+  transition: 0.3s;
+  border-color: #313234;
+}
+
+.Generate:hover {
+  background-color: #94E27E;
+  cursor: pointer;
+}
+
+.option {
+  font-size: 1.3vw;
+  align-items: center;
+  margin-bottom: 6vh;
+  width: 30vw;
+}
+
+.Credit {
+  font-size: 1.3vw;
+}
+
+.Source {
+ text-decoration: none;
+ font-size: 1.3vw;
+ color: #07a081; 
+}
+
+.Source:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.PexelsCredit {
+  align-items: center;
+  position: fixed; 
+  bottom: 1vh;
+}
